@@ -1,0 +1,15 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "studio": "^0.13.1",
+    "studio-cluster": "^0.3.5"
+  }
+}
